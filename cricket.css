@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+.Choice-button{
+    height: 200px;
+    width: 200px;
+    border: none;
+    margin: 15px;
+    background-color: rgb(168, 195, 161);
+    border-radius: 100px;
+}
+.Choice{
+    height: 85px;
+}
